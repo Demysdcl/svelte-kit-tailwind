@@ -2,16 +2,18 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
+Project configurated with [tailwindcss](https://tailwindcss.com/)
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
 # create a new project in the current directory
-npm init svelte@next
+npm init https://github.com/Demysdcl/svelte-kit-tailwind.git
 
 # create a new project in my-app
-npm init svelte@next my-app
+npm init https://github.com/Demysdcl/svelte-kit-tailwind.git my-app
 ```
 
 > Note: the `@next` is temporary
